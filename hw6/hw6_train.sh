@@ -1,0 +1,9 @@
+python hw6_LSTM.py $1 $2 $3 $4 LSTM_model_1
+python hw6_LSTM.py $1 $2 $3 $4 LSTM_model_2
+python hw6_LSTM.py $1 $2 $3 $4 LSTM_model_3
+python hw6_CNN.py $1 $2 $3 $4 CNN_LSTM_model_1
+python hw6_CNN.py $1 $2 $3 $4 CNN_LSTM_model_2
+python hw6_CNN.py $1 $2 $3 $4 CNN_LSTM_model_3
+python hw6_GRU.py $1 $2 $3 $4 GRU_model_1
+python hw6_GRU.py $1 $2 $3 $4 GRU_model_2
+python hw6_GRU.py $1 $2 $3 $4 GRU_model_3
